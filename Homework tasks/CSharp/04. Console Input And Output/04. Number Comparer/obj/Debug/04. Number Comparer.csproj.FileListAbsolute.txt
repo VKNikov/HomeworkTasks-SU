@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\04. Console Input And Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\04. Number Comparer\obj\Debug\04. Number Comparer.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\04. Console Input And Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb

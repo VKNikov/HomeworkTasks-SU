@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\06. Loops\07. Calculating Number of Different Ways\bin\Debug\_07.Calculating_N__and_K__different_ways.exe
+C:\Projects SU\Homework tasks\06. Loops\07. Calculating Number of Different Ways\bin\Debug\_07.Calculating_N__and_K__different_ways.pdb
+C:\Projects SU\Homework tasks\06. Loops\07. Calculating Number of Different Ways\obj\Debug\07. Calculating Number of Combinations.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\06. Loops\07. Calculating Number of Different Ways\obj\Debug\_07.Calculating_N__and_K__different_ways.exe
+C:\Projects SU\Homework tasks\06. Loops\07. Calculating Number of Different Ways\obj\Debug\_07.Calculating_N__and_K__different_ways.pdb

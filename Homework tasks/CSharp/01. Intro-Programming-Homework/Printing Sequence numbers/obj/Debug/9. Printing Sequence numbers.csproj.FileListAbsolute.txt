@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\Printing Sequence numbers\obj\Debug\Printing Sequence numbers.exe
+C:\Projects SU\Homework tasks\Printing Sequence numbers\obj\Debug\Printing Sequence numbers.pdb
+C:\Projects SU\Homework tasks\Printing Sequence numbers\bin\Debug\Printing Sequence numbers.exe
+C:\Projects SU\Homework tasks\Printing Sequence numbers\bin\Debug\Printing Sequence numbers.pdb
+C:\Projects SU\Homework tasks\Printing Sequence numbers\obj\Debug\9. Printing Sequence numbers.csprojResolveAssemblyReference.cache

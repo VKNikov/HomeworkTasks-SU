@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\04. Console Input And Output\11. Numbers in Interval Dividable by Given Number\bin\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\11. Numbers in Interval Dividable by Given Number\bin\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\11. Numbers in Interval Dividable by Given Number\obj\Debug\11. Numbers in Interval Dividable by Given Number.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\04. Console Input And Output\11. Numbers in Interval Dividable by Given Number\obj\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\11. Numbers in Interval Dividable by Given Number\obj\Debug\_11.Numbers_in_Interval_Dividable_by_Given_Number.pdb

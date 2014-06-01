@@ -1,0 +1,4 @@
+C:\Projects SU\Homework tasks\06. Loops\02. Numbers not Divisible by 3 and 7\bin\Debug\_02.Numbers_not_Divisible_by_3_and_7.exe
+C:\Projects SU\Homework tasks\06. Loops\02. Numbers not Divisible by 3 and 7\bin\Debug\_02.Numbers_not_Divisible_by_3_and_7.pdb
+C:\Projects SU\Homework tasks\06. Loops\02. Numbers not Divisible by 3 and 7\obj\Debug\_02.Numbers_not_Divisible_by_3_and_7.exe
+C:\Projects SU\Homework tasks\06. Loops\02. Numbers not Divisible by 3 and 7\obj\Debug\_02.Numbers_not_Divisible_by_3_and_7.pdb

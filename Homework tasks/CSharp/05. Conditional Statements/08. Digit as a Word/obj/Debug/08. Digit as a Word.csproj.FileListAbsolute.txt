@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\05. Conditional Statements\08. Digit as a Word\bin\Debug\_08.Digit_as_a_Word.exe
+C:\Projects SU\Homework tasks\05. Conditional Statements\08. Digit as a Word\bin\Debug\_08.Digit_as_a_Word.pdb
+C:\Projects SU\Homework tasks\05. Conditional Statements\08. Digit as a Word\obj\Debug\_08.Digit_as_a_Word.exe
+C:\Projects SU\Homework tasks\05. Conditional Statements\08. Digit as a Word\obj\Debug\_08.Digit_as_a_Word.pdb
+C:\Projects SU\Homework tasks\05. Conditional Statements\08. Digit as a Word\obj\Debug\08. Digit as a Word.csprojResolveAssemblyReference.cache

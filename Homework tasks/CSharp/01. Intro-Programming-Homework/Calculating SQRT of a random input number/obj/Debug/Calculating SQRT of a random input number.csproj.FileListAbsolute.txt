@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\Calculating SQRT of a random input number\obj\Debug\Calculating SQRT of a random input number.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\Calculating SQRT of a random input number\bin\Debug\Calculating SQRT of a random input number.exe
+C:\Projects SU\Homework tasks\Calculating SQRT of a random input number\bin\Debug\Calculating SQRT of a random input number.pdb
+C:\Projects SU\Homework tasks\Calculating SQRT of a random input number\obj\Debug\Calculating SQRT of a random input number.exe
+C:\Projects SU\Homework tasks\Calculating SQRT of a random input number\obj\Debug\Calculating SQRT of a random input number.pdb

@@ -1,0 +1,15 @@
+Herewith you will find a couple of different programming IDEs for various computer programming languages.
+
+1. Visual Studio
+Visual Studio is Microsoft's IDE for programming using the .NET platform. You can use it in order to code on various programming languages like C++, C# and Visual Basic. The IDE itself comes in 3 different versions, Visual Studio Express which is free to use, Visual Studio Professional and Visual Studio Ultimate which have 90 days trial perioud, after which you will have to buy them.
+2.
+SharpDevelop
+SharpDevelop is an open-source project written in C# and aiming to provide a free alternative to Microsoft's Visual Studio IDE for programming on C#. It's arguably a good alternative if you use the free version of Visual Studio(Express). However, it is considered that it cannot compete with the paid version of Microsoft's IDE.
+3. Eclipse
+Eclipse is written mostly in Java and can be used to develop programs in Java, C++, PHP, Python and etc. It is a free and open-source software originating from IBM VisualAge. It is primarily used as the main IDE for programming using Java computer languages.
+4. Netbeans
+Netbeans is another open-source IDE project used primarily for developing with Java.
+5. Xcode
+Xcode is an IDE suited for software developing on Mac computers, developed by Apple. It is free of charge for the users of Mac OS X Lion and OS x Mountain Lion operation systems under propriety freeware license. A software written on Xcode can be run on both PowerPC(Mac) and Intel-based PCs(x86 platform). By using iOS SDK Xcode could compile and debug applications for iOS(running on ARM processor architecture) as well.
+6. Padre
+Padre (short from Perl Application Development and Refactoring Environment) is the IDE used by programmers who develop using the Perl programming langugage. It is open-source and is free to use under the Perl license.

@@ -1,0 +1,7 @@
+C:\Projects SU\04. Console Input And Output\03. Circle and Perimeter Area\bin\Debug\_03.Circle_and_Perimeter_Area.exe
+C:\Projects SU\04. Console Input And Output\03. Circle and Perimeter Area\bin\Debug\_03.Circle_and_Perimeter_Area.pdb
+C:\Projects SU\04. Console Input And Output\03. Circle and Perimeter Area\obj\Debug\03. Circle and Perimeter Area.csprojResolveAssemblyReference.cache
+C:\Projects SU\04. Console Input And Output\03. Circle and Perimeter Area\obj\Debug\_03.Circle_and_Perimeter_Area.exe
+C:\Projects SU\04. Console Input And Output\03. Circle and Perimeter Area\obj\Debug\_03.Circle_and_Perimeter_Area.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\03. Circle and Perimeter Area\obj\Debug\_03.Circle_and_Perimeter_Area.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\03. Circle and Perimeter Area\obj\Debug\_03.Circle_and_Perimeter_Area.pdb

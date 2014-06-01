@@ -1,0 +1,5 @@
+As the name of the file suggest, herewith you can find information about C# and .NET framework. 
+
+C# is a programming language developed by Microsoft and based mainly on C and C++ in order to correspond to the needs of today's world. It is considered an easy to use and code with language and is used to develop wide range of programs for the Windows platform.
+
+.NET framework is also developed by Microsoft and runs on Windows based machines. The difference between both is that .NET framework is not a programming language itself, but provides the necessary functionality(libraries and language interoperability) in order for the programmer to develop all kind of programs using different computer languages. In order to do that a Common Language Runtime(CLR) is built in .NET framework and provides  and manages the execution of .NET programs. This means that all programs written for .NET framework, regardless of the language used are executed by the CLR. .Net framework is part of .NET Platform.

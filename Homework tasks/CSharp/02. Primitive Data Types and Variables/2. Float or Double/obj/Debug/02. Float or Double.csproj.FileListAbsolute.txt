@@ -1,0 +1,4 @@
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.exe
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.pdb
+C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.exe
+C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.pdb

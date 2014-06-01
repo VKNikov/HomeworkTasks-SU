@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\05. Conditional Statements\11. Number as Words\obj\Debug\11. Number as Words.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\05. Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+C:\Projects SU\Homework tasks\05. Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+C:\Projects SU\Homework tasks\05. Conditional Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+C:\Projects SU\Homework tasks\05. Conditional Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb

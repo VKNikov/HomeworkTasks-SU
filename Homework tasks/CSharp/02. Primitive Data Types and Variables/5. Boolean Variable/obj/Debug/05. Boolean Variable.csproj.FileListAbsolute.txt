@@ -1,0 +1,4 @@
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.exe
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.pdb
+C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.exe
+C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.pdb

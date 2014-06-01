@@ -1,0 +1,9 @@
+C:\Projects SU\Homework tasks\Print First and Last name\obj\Debug\Print First and Last name.exe
+C:\Projects SU\Homework tasks\Print First and Last name\obj\Debug\Print First and Last name.pdb
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print First and Last name\bin\Debug\Print First and Last name.exe
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print First and Last name\bin\Debug\Print First and Last name.pdb
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print First and Last name\obj\Debug\07. Print First and Last name.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print First and Last name\obj\Debug\Print First and Last name.exe
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print First and Last name\obj\Debug\Print First and Last name.pdb
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\Print First and Last name\obj\Debug\Print First and Last name.exe
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\Print First and Last name\obj\Debug\Print First and Last name.pdb

@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\07. CSharp Advanced\07. Matrix of Palindromes\obj\Debug\07. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\07. CSharp Advanced\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe
+C:\Projects SU\Homework tasks\07. CSharp Advanced\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.pdb
+C:\Projects SU\Homework tasks\07. CSharp Advanced\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.exe
+C:\Projects SU\Homework tasks\07. CSharp Advanced\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.pdb

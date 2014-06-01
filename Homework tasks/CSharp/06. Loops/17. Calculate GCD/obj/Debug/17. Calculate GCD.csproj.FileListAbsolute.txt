@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\06. Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe
+C:\Projects SU\Homework tasks\06. Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.pdb
+C:\Projects SU\Homework tasks\06. Loops\17. Calculate GCD\obj\Debug\17. Calculate GCD.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\06. Loops\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.exe
+C:\Projects SU\Homework tasks\06. Loops\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.pdb

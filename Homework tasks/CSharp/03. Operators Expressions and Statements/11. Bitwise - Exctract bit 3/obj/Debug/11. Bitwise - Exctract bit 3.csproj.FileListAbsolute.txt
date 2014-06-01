@@ -1,0 +1,6 @@
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\11. Bitwise - Exctract bit 3\bin\Debug\_11.Bitwise___Exctract_bit_3.exe.config
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\11. Bitwise - Exctract bit 3\obj\Debug\11. Bitwise - Exctract bit 3.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\11. Bitwise - Exctract bit 3\bin\Debug\_11.Bitwise___Exctract_bit_3.exe
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\11. Bitwise - Exctract bit 3\bin\Debug\_11.Bitwise___Exctract_bit_3.pdb
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\11. Bitwise - Exctract bit 3\obj\Debug\_11.Bitwise___Exctract_bit_3.exe
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\11. Bitwise - Exctract bit 3\obj\Debug\_11.Bitwise___Exctract_bit_3.pdb

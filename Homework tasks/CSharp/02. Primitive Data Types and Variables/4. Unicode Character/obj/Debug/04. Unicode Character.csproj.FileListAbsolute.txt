@@ -1,0 +1,6 @@
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.exe
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.pdb
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.pdb
+C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.exe
+C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.pdb
