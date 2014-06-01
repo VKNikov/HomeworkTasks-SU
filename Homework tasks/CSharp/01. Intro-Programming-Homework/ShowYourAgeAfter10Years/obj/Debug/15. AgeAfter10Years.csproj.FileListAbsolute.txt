@@ -1,0 +1,15 @@
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.pdb
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.pdb
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\15. AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.pdb
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\ShowYourAgeAfter10Years\obj\Debug\15. AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.pdb
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.pdb
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.pdb
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\ShowYourAgeAfter10Years\obj\Debug\15. AgeAfter10Years.csprojResolveAssemblyReference.cache

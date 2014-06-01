@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.pdb
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\9. Exchange Variable Values\obj\Debug\9. Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.exe
+C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.pdb

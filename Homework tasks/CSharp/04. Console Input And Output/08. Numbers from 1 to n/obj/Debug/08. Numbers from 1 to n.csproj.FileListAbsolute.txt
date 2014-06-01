@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\04. Console Input And Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\08. Numbers from 1 to n\obj\Debug\08. Numbers from 1 to n.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\04. Console Input And Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

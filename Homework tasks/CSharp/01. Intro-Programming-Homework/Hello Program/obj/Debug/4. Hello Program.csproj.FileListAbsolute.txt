@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\Hello Program\obj\Debug\Hello Program.exe
+C:\Projects SU\Homework tasks\Hello Program\obj\Debug\Hello Program.pdb
+C:\Projects SU\Homework tasks\Hello Program\bin\Debug\Hello Program.exe
+C:\Projects SU\Homework tasks\Hello Program\bin\Debug\Hello Program.pdb
+C:\Projects SU\Homework tasks\Hello Program\obj\Debug\4. Hello Program.csprojResolveAssemblyReference.cache

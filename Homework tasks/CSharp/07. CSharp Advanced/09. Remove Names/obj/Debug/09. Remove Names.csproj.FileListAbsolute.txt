@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\07. CSharp Advanced\09. Remove Names\bin\Debug\_09.Remove_Names.exe
+C:\Projects SU\Homework tasks\07. CSharp Advanced\09. Remove Names\bin\Debug\_09.Remove_Names.pdb
+C:\Projects SU\Homework tasks\07. CSharp Advanced\09. Remove Names\obj\Debug\09. Remove Names.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\07. CSharp Advanced\09. Remove Names\obj\Debug\_09.Remove_Names.exe
+C:\Projects SU\Homework tasks\07. CSharp Advanced\09. Remove Names\obj\Debug\_09.Remove_Names.pdb

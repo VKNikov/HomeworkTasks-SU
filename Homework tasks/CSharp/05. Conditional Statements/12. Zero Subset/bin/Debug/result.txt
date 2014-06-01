@@ -1,0 +1,7 @@
+This program will find all subsets of 5 given numbers the sum of which equals 0
+Enter the first number:
+Enter the second number:
+Enter the third number:
+Enter the fourth number:
+Enter the fifth number:
+-2 + 1 + 1 = 0

@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\07. CSharp Advanced\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+C:\Projects SU\Homework tasks\07. CSharp Advanced\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+C:\Projects SU\Homework tasks\07. CSharp Advanced\10. Join Lists\obj\Debug\10. Join Lists.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\07. CSharp Advanced\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+C:\Projects SU\Homework tasks\07. CSharp Advanced\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

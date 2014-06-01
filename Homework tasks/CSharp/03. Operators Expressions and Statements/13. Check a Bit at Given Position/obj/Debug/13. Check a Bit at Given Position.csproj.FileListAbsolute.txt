@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\13. Check a Bit at Given Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.exe
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\13. Check a Bit at Given Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.pdb
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\13. Check a Bit at Given Position\obj\Debug\13. Check a Bit at Given Position.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\13. Check a Bit at Given Position\obj\Debug\_13.Check_a_Bit_at_Given_Position.exe
+C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\13. Check a Bit at Given Position\obj\Debug\_13.Check_a_Bit_at_Given_Position.pdb

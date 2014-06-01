@@ -1,0 +1,8 @@
+C:\Projects SU\Homework tasks\Print Numbers\obj\Debug\Print Numbers.exe
+C:\Projects SU\Homework tasks\Print Numbers\obj\Debug\Print Numbers.pdb
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print Numbers\bin\Debug\Print Numbers.exe
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print Numbers\bin\Debug\Print Numbers.pdb
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print Numbers\obj\Debug\Print Numbers.exe
+C:\Projects SU\Homework tasks\Intro-Programming-Homework\Print Numbers\obj\Debug\Print Numbers.pdb
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\Print Numbers\obj\Debug\Print Numbers.exe
+C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\Print Numbers\obj\Debug\Print Numbers.pdb

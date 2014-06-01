@@ -1,0 +1,10 @@
+C:\Projects SU\04. Console Input And Output\02. Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache
+C:\Projects SU\04. Console Input And Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+C:\Projects SU\04. Console Input And Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+C:\Projects SU\04. Console Input And Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+C:\Projects SU\04. Console Input And Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+C:\Projects SU\Homework tasks\04. Console Input And Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+C:\Projects SU\Homework tasks\04. Console Input And Output\02. Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache

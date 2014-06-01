@@ -1,0 +1,2 @@
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.exe
+C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.pdb

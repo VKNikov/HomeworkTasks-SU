@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\2. Primitive Data TYpes and Variables\Declare Variables\bin\Debug\Declare Variables.exe
+C:\Projects SU\Homework tasks\2. Primitive Data TYpes and Variables\Declare Variables\bin\Debug\Declare Variables.pdb
+C:\Projects SU\Homework tasks\2. Primitive Data TYpes and Variables\Declare Variables\obj\Debug\1. Declare Variables.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\2. Primitive Data TYpes and Variables\Declare Variables\obj\Debug\Declare Variables.exe
+C:\Projects SU\Homework tasks\2. Primitive Data TYpes and Variables\Declare Variables\obj\Debug\Declare Variables.pdb

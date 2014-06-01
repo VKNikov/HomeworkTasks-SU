@@ -1,0 +1,12 @@
+Here is a list of arguably the 5 most used and popular programming languages in the world (beside C# and in no particular order).
+
+1.C++
+C++ is a general purpose programming languages. It is very powerful language and have both low-level and high-level features. It was created by Bjarne Stroustrup in 1983 with the purpose to improve over the original C language. However, due to its low-level qualities, nowadays it is considered obsolete and is used only in very specific cases.
+2.PHP
+PHP is a computer language primarily designed for web development. It first appeared in 1995 and unlike C++ you have to use an interpretor(usually a web server with PHP processor module) instead of compiler. Although you can use the language as a general-purpose programming language, due to its syntax it is rarely used for anything but web development.
+3.Ruby
+Ruby is a object-oriented, general-purpose programming language, designed by Yukihiro Matsumoto in 1995. It is said that it was influenced by other languages like Perl, Ada, etc. According to his author, the aim of the language is to make you more productive by concentrating on the human needs rather than on the computer's. 
+4.Java
+Java is class-based, object-oriented (very similar to C#) multi-purpose programming language. It was developed at Sun Microsystems and derived most of its syntaxes from C and C++. The purpose of the language is to make programs independent from the platform they are run at. All you need to run a Java based program is a JVM(Java virtual machine). This is also one of the main differences of Java compared to C# which officially is available only on Windows based systems Nowadays Java is one of the most used programming languages with reported over 9 million developers.
+5.Python
+Python was created by Guido Van Rossum. Its purpose is to provide an easy to use programming syntax and is often used as a scripting language. It's code can be packed into standalone executable programs. It shares a lot of similarities with C#, although it is considered more flexible (whether this is a good thing or not is another point).

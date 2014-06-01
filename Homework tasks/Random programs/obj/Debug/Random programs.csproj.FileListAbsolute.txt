@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\Random programs\obj\Debug\Random programs.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\Random programs\bin\Debug\Random programs.exe
+C:\Projects SU\Homework tasks\Random programs\bin\Debug\Random programs.pdb
+C:\Projects SU\Homework tasks\Random programs\obj\Debug\Random programs.exe
+C:\Projects SU\Homework tasks\Random programs\obj\Debug\Random programs.pdb

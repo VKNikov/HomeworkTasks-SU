@@ -1,0 +1,5 @@
+C:\Projects SU\Homework tasks\06. Loops\16. Decimal to Hexadecimal Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+C:\Projects SU\Homework tasks\06. Loops\16. Decimal to Hexadecimal Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.pdb
+C:\Projects SU\Homework tasks\06. Loops\16. Decimal to Hexadecimal Number\obj\Debug\16. Decimal to Hexadecimal Number.csprojResolveAssemblyReference.cache
+C:\Projects SU\Homework tasks\06. Loops\16. Decimal to Hexadecimal Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+C:\Projects SU\Homework tasks\06. Loops\16. Decimal to Hexadecimal Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.pdb
