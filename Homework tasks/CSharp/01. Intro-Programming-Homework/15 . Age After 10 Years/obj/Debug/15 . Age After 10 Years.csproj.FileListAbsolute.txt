@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\15 . Age After 10 Years\bin\Debug\_15.Age_After_10_Years.exe
-C:\Projects SU\Homework tasks\15 . Age After 10 Years\bin\Debug\_15.Age_After_10_Years.pdb
-C:\Projects SU\Homework tasks\15 . Age After 10 Years\obj\Debug\_15.Age_After_10_Years.exe
-C:\Projects SU\Homework tasks\15 . Age After 10 Years\obj\Debug\_15.Age_After_10_Years.pdb
-C:\Projects SU\Homework tasks\15 . Age After 10 Years\obj\Debug\15 . Age After 10 Years.csprojResolveAssemblyReference.cache

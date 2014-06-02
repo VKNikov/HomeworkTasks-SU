@@ -1,4 +1,0 @@
-C:\Projects SU\Homework tasks\PrintMyName\bin\Debug\PrintMyName.exe
-C:\Projects SU\Homework tasks\PrintMyName\bin\Debug\PrintMyName.pdb
-C:\Projects SU\Homework tasks\PrintMyName\obj\Debug\PrintMyName.exe
-C:\Projects SU\Homework tasks\PrintMyName\obj\Debug\PrintMyName.pdb

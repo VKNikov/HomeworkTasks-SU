@@ -1,1 +1,0 @@
-C:\Projects SU\Homework tasks\06. Loops\07. Calculating N! and K! different ways\bin\Debug\_07.Calculating_N__and_K__different_ways.exe.config

@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\07. CSharp Advanced\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\05. Sorting Numbers\obj\Debug\05. Sorting Numbers.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\07. CSharp Advanced\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb

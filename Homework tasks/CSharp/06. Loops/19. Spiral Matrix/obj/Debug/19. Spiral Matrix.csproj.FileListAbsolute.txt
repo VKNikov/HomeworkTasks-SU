@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\06. Loops\19. Spiral Matrix\bin\Debug\_19.Spiral_Matrix.exe
-C:\Projects SU\Homework tasks\06. Loops\19. Spiral Matrix\bin\Debug\_19.Spiral_Matrix.pdb
-C:\Projects SU\Homework tasks\06. Loops\19. Spiral Matrix\obj\Debug\19. Spiral Matrix.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\06. Loops\19. Spiral Matrix\obj\Debug\_19.Spiral_Matrix.exe
-C:\Projects SU\Homework tasks\06. Loops\19. Spiral Matrix\obj\Debug\_19.Spiral_Matrix.pdb

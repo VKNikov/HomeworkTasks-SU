@@ -1,9 +1,0 @@
-C:\Projects SU\03. Operators Expressions and Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe
-C:\Projects SU\03. Operators Expressions and Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.pdb
-C:\Projects SU\03. Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.exe
-C:\Projects SU\03. Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\02. Gravitation on the Moon\obj\Debug\02. Gravitation on the Moon.csprojResolveAssemblyReference.cache

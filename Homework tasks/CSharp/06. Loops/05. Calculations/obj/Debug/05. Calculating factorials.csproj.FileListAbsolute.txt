@@ -1,4 +1,0 @@
-C:\Projects SU\Homework tasks\06. Loops\05. Calculations\obj\Debug\_05.Calculations.exe
-C:\Projects SU\Homework tasks\06. Loops\05. Calculations\obj\Debug\_05.Calculations.pdb
-C:\Projects SU\Homework tasks\06. Loops\05. Calculations\bin\Debug\_05.Calculations.exe
-C:\Projects SU\Homework tasks\06. Loops\05. Calculations\bin\Debug\_05.Calculations.pdb

@@ -1,7 +1,0 @@
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.pdb
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\06. Strings and Objects.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.pdb
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.exe
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.pdb

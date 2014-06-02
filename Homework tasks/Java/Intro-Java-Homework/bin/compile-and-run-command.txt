@@ -1,2 +1,0 @@
-javac _08_Sum_Two_Numbers.java
-java _08_Sum_Two_Numbers

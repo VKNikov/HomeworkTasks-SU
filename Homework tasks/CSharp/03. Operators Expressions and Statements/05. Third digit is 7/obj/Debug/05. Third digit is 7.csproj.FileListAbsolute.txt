@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\05. Third digit is 7\bin\Debug\_05.Third_digit_is_7.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\05. Third digit is 7\bin\Debug\_05.Third_digit_is_7.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\05. Third digit is 7\obj\Debug\_05.Third_digit_is_7.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\05. Third digit is 7\obj\Debug\_05.Third_digit_is_7.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\05. Third digit is 7\obj\Debug\05. Third digit is 7.csprojResolveAssemblyReference.cache

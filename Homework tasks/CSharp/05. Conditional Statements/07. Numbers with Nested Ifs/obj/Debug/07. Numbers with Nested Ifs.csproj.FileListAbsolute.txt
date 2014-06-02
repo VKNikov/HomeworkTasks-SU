@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\05. Conditional Statements\07. Numbers with Nested Ifs\bin\Debug\_07.Numbers_with_Nested_Ifs.exe
-C:\Projects SU\Homework tasks\05. Conditional Statements\07. Numbers with Nested Ifs\bin\Debug\_07.Numbers_with_Nested_Ifs.pdb
-C:\Projects SU\Homework tasks\05. Conditional Statements\07. Numbers with Nested Ifs\obj\Debug\_07.Numbers_with_Nested_Ifs.exe
-C:\Projects SU\Homework tasks\05. Conditional Statements\07. Numbers with Nested Ifs\obj\Debug\_07.Numbers_with_Nested_Ifs.pdb
-C:\Projects SU\Homework tasks\05. Conditional Statements\07. Numbers with Nested Ifs\obj\Debug\07. Numbers with Nested Ifs.csprojResolveAssemblyReference.cache

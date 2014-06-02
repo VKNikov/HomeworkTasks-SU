@@ -1,9 +1,0 @@
-C:\Projects SU\Homework tasks\CSharp Advanced\04. Difference Between Dates\bin\Debug\_04.Difference_Between_Dates.exe
-C:\Projects SU\Homework tasks\CSharp Advanced\04. Difference Between Dates\bin\Debug\_04.Difference_Between_Dates.pdb
-C:\Projects SU\Homework tasks\CSharp Advanced\04. Difference Between Dates\obj\Debug\_04.Difference_Between_Dates.exe
-C:\Projects SU\Homework tasks\CSharp Advanced\04. Difference Between Dates\obj\Debug\_04.Difference_Between_Dates.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\04. Difference Between Dates\obj\Debug\_04.Difference_Between_Dates.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\04. Difference Between Dates\obj\Debug\_04.Difference_Between_Dates.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\04. Difference Between Dates\bin\Debug\_04.Difference_Between_Dates.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\04. Difference Between Dates\bin\Debug\_04.Difference_Between_Dates.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\04. Difference Between Dates\obj\Debug\04. Difference Between Dates.csprojResolveAssemblyReference.cache

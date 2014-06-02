@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\08. Prime Number Check\obj\Debug\08. Prime Number Check.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.pdb

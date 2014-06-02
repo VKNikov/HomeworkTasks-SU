@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\04. Console Input And Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.pdb
-C:\Projects SU\Homework tasks\04. Console Input And Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.pdb
-C:\Projects SU\Homework tasks\04. Console Input And Output\07. Sum of 5 Numbers\obj\Debug\07. Sum of 5 Numbers.csprojResolveAssemblyReference.cache

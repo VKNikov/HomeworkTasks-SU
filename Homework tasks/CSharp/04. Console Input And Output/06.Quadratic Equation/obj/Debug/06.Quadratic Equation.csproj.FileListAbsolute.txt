@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\04. Console Input And Output\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
-C:\Projects SU\Homework tasks\04. Console Input And Output\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\04. Console Input And Output\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb

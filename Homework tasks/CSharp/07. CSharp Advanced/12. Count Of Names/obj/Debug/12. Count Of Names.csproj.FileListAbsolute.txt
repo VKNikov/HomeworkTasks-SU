@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\07. CSharp Advanced\12. Count Of Names\bin\Debug\_12.Count_Of_Names.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\12. Count Of Names\bin\Debug\_12.Count_Of_Names.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\12. Count Of Names\obj\Debug\12. Count Of Names.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\07. CSharp Advanced\12. Count Of Names\obj\Debug\_12.Count_Of_Names.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\12. Count Of Names\obj\Debug\_12.Count_Of_Names.pdb

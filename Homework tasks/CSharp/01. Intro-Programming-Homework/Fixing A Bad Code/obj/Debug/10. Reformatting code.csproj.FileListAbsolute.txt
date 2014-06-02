@@ -1,8 +1,0 @@
-C:\Projects SU\Homework tasks\Fixing A Bad Code\obj\Debug\Fixing A Bad Code.exe
-C:\Projects SU\Homework tasks\Fixing A Bad Code\obj\Debug\Fixing A Bad Code.pdb
-C:\Projects SU\Homework tasks\Intro-Programming-Homework\Fixing A Bad Code\bin\Debug\Fixing A Bad Code.exe
-C:\Projects SU\Homework tasks\Intro-Programming-Homework\Fixing A Bad Code\bin\Debug\Fixing A Bad Code.pdb
-C:\Projects SU\Homework tasks\Intro-Programming-Homework\Fixing A Bad Code\obj\Debug\Fixing A Bad Code.exe
-C:\Projects SU\Homework tasks\Intro-Programming-Homework\Fixing A Bad Code\obj\Debug\Fixing A Bad Code.pdb
-C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\Fixing A Bad Code\obj\Debug\Fixing A Bad Code.exe
-C:\Projects SU\Homework tasks\01. Intro-Programming-Homework\Fixing A Bad Code\obj\Debug\Fixing A Bad Code.pdb

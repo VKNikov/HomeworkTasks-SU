@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\15. Bits Exchange\obj\Debug\15. Bits Exchange.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.pdb

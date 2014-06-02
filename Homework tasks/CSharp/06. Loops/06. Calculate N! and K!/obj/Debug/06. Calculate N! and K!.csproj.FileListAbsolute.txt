@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\06. Loops\06. Calculate N! and K!\bin\Debug\_06.Calculate_N__and_K_.exe
-C:\Projects SU\Homework tasks\06. Loops\06. Calculate N! and K!\bin\Debug\_06.Calculate_N__and_K_.pdb
-C:\Projects SU\Homework tasks\06. Loops\06. Calculate N! and K!\obj\Debug\06. Calculate N! and K!.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\06. Loops\06. Calculate N! and K!\obj\Debug\_06.Calculate_N__and_K_.exe
-C:\Projects SU\Homework tasks\06. Loops\06. Calculate N! and K!\obj\Debug\_06.Calculate_N__and_K_.pdb

@@ -1,6 +1,0 @@
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\Declare Variables\obj\Debug\Declare Variables.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\Declare Variables\obj\Debug\Declare Variables.pdb
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\1. Declare Variables\obj\Debug\Declare Variables.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\1. Declare Variables\obj\Debug\Declare Variables.pdb
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\1. Declare Variables\obj\Debug\Declare Variables.exe
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\1. Declare Variables\obj\Debug\Declare Variables.pdb

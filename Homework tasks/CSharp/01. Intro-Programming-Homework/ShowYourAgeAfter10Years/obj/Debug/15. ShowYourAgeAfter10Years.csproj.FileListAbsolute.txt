@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.exe
-C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\bin\Debug\ShowYourAgeAfter10Years.pdb
-C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.exe
-C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\ShowYourAgeAfter10Years.pdb
-C:\Projects SU\Homework tasks\ShowYourAgeAfter10Years\obj\Debug\15. ShowYourAgeAfter10Years.csprojResolveAssemblyReference.cache

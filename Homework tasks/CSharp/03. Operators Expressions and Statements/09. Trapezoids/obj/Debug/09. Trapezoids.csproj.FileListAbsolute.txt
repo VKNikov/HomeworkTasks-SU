@@ -1,4 +1,0 @@
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

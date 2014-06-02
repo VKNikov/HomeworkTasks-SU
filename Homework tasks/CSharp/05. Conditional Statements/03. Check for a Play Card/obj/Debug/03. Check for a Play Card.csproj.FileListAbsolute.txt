@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\05. Conditional Statements\03. Check for a Play Card\obj\Debug\03. Check for a Play Card.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\05. Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
-C:\Projects SU\Homework tasks\05. Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
-C:\Projects SU\Homework tasks\05. Conditional Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
-C:\Projects SU\Homework tasks\05. Conditional Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

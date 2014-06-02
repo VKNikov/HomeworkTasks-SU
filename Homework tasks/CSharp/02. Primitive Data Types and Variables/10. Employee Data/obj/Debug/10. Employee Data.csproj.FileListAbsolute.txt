@@ -1,7 +1,0 @@
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\10. Employee Data\obj\Debug\10. Employee Data.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.pdb
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.exe
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.pdb

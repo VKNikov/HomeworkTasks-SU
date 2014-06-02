@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\04. Console Input And Output\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.pdb
-C:\Projects SU\Homework tasks\04. Console Input And Output\12. Falling Rocks\obj\Debug\12. Falling Rocks.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\04. Console Input And Output\12. Falling Rocks\obj\Debug\_12.Falling_Rocks.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\12. Falling Rocks\obj\Debug\_12.Falling_Rocks.pdb

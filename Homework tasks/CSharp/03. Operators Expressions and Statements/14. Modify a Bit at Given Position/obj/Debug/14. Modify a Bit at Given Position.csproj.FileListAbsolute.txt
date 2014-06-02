@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.pdb
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\14. Modify a Bit at Given Position\obj\Debug\14. Modify a Bit at Given Position.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\14. Modify a Bit at Given Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.exe
-C:\Projects SU\Homework tasks\03. Operators Expressions and Statements\14. Modify a Bit at Given Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.pdb

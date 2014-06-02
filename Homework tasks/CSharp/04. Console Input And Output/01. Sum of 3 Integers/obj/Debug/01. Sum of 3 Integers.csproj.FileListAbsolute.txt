@@ -1,7 +1,0 @@
-C:\Projects SU\04. Console Input And Output\01. Sum of 3 Integers\bin\Debug\_01.Sum_of_3_Integers.exe
-C:\Projects SU\04. Console Input And Output\01. Sum of 3 Integers\bin\Debug\_01.Sum_of_3_Integers.pdb
-C:\Projects SU\04. Console Input And Output\01. Sum of 3 Integers\obj\Debug\01. Sum of 3 Integers.csprojResolveAssemblyReference.cache
-C:\Projects SU\04. Console Input And Output\01. Sum of 3 Integers\obj\Debug\_01.Sum_of_3_Integers.exe
-C:\Projects SU\04. Console Input And Output\01. Sum of 3 Integers\obj\Debug\_01.Sum_of_3_Integers.pdb
-C:\Projects SU\Homework tasks\04. Console Input And Output\01. Sum of 3 Integers\obj\Debug\_01.Sum_of_3_Integers.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\01. Sum of 3 Integers\obj\Debug\_01.Sum_of_3_Integers.pdb

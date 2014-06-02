@@ -1,4 +1,0 @@
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\3. Variable in Hexadecimal format\obj\Debug\_3.Variable_in_Hexadecimal_format.exe
-C:\Projects SU\Homework tasks\2. Primitive Data Types and Variables\3. Variable in Hexadecimal format\obj\Debug\_3.Variable_in_Hexadecimal_format.pdb
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\3. Variable in Hexadecimal format\obj\Debug\_3.Variable_in_Hexadecimal_format.exe
-C:\Projects SU\Homework tasks\02. Primitive Data Types and Variables\3. Variable in Hexadecimal format\obj\Debug\_3.Variable_in_Hexadecimal_format.pdb

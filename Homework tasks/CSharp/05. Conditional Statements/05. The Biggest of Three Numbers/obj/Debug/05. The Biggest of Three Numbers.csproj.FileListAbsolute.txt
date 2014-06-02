@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\05. Conditional Statements\05. The Biggest of Three Numbers\bin\Debug\_05.The_Biggest_of_Three_Numbers.exe
-C:\Projects SU\Homework tasks\05. Conditional Statements\05. The Biggest of Three Numbers\bin\Debug\_05.The_Biggest_of_Three_Numbers.pdb
-C:\Projects SU\Homework tasks\05. Conditional Statements\05. The Biggest of Three Numbers\obj\Debug\_05.The_Biggest_of_Three_Numbers.exe
-C:\Projects SU\Homework tasks\05. Conditional Statements\05. The Biggest of Three Numbers\obj\Debug\_05.The_Biggest_of_Three_Numbers.pdb
-C:\Projects SU\Homework tasks\05. Conditional Statements\05. The Biggest of Three Numbers\obj\Debug\05. The Biggest of Three Numbers.csprojResolveAssemblyReference.cache

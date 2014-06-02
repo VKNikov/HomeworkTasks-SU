@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\07. CSharp Advanced\11. Count Of Letters\bin\Debug\_11.Count_Of_Letters.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\11. Count Of Letters\bin\Debug\_11.Count_Of_Letters.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\11. Count Of Letters\obj\Debug\11. Count Of Letters.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\07. CSharp Advanced\11. Count Of Letters\obj\Debug\_11.Count_Of_Letters.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\11. Count Of Letters\obj\Debug\_11.Count_Of_Letters.pdb

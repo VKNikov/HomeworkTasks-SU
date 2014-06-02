@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\07. CSharp Advanced\14 Longest Word in a Text\bin\Debug\14 Longest Word in a Text.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\14 Longest Word in a Text\bin\Debug\14 Longest Word in a Text.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\14 Longest Word in a Text\obj\Debug\14 Longest Word in a Text.exe
-C:\Projects SU\Homework tasks\07. CSharp Advanced\14 Longest Word in a Text\obj\Debug\14 Longest Word in a Text.pdb
-C:\Projects SU\Homework tasks\07. CSharp Advanced\14 Longest Word in a Text\obj\Debug\14 Longest Word in a Text.csprojResolveAssemblyReference.cache

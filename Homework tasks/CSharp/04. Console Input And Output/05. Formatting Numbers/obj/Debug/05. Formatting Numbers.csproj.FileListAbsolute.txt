@@ -1,5 +1,0 @@
-C:\Projects SU\Homework tasks\04. Console Input And Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.pdb
-C:\Projects SU\Homework tasks\04. Console Input And Output\05. Formatting Numbers\obj\Debug\05. Formatting Numbers.csprojResolveAssemblyReference.cache
-C:\Projects SU\Homework tasks\04. Console Input And Output\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.exe
-C:\Projects SU\Homework tasks\04. Console Input And Output\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.pdb
