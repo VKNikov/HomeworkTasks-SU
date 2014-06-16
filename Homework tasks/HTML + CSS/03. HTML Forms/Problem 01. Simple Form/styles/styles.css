@@ -1,0 +1,67 @@
+#register {
+    font-size: 18px;
+    float: right;
+    height: 35px;
+    width: 160px;
+    border: 2px solid;
+    color: #576f88;
+    border-color: #576f88;
+    font-weight: bold;
+}
+
+input {
+    padding-left: 5px;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 97%;
+}
+
+fieldset {border: 0; height: 280px;}
+
+#new-user {
+    width: 350px;
+    border: none;
+    display: inline-block;
+
+}
+
+#old-user {
+    background-color: #234465;
+    width: 350px;
+    border: none;
+    display: inline-block;
+}
+
+#remember {
+    width: 20px;
+    height: 20px;
+}
+
+label {
+    vertical-align: top;
+    color: #ffffff;
+}
+
+#login {
+    font-size: 18px;
+    float: right;
+    height: 35px;
+    width: 160px;
+    border: 2px solid;
+    border-color: #d98d11;
+    color: #ffffff;
+    background-color: #234465;
+}
+
+a {
+    color: #ffffff;
+    float: right;
+    padding-right: 15px;
+    clear: both;
+}
+
+#login-headline {color: #ffffff}
+
+span, h1 {color: #234465}
+
+main, header {font-family: Verdana;}
