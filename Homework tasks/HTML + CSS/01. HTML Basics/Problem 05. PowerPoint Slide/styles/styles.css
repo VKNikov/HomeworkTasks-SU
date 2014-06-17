@@ -3,6 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.margin { margin-left: 30px }
 h1 {
     font-size: 40px;
     color: #f3be60;
@@ -18,7 +19,7 @@ ul {
     top: 100px;
     left: 40px;
 }
-.whiteFont { color: #ffffff }
+p { color: #ffffff }
 .orangeFont { color: #f3be60 }
 div {
     border-style: solid;
@@ -33,5 +34,3 @@ div {
     padding: 5px;
     opacity: 0.8;
 }
-.margin { margin-left: 30px }
-
