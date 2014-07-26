@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'Patua One';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Patua One"), local("PatuaOne-Regular"), url(http://themes.googleusercontent.com/static/fonts/patuaone/v4/yAXhog6uK3bd3OwBILv_SD8E0i7KZn-EPnyo3HZu7kw.woff) format("woff"); }
+html {
+  height: 100%; }
+  html body {
+    margin: 0;
+    height: 100%; }
+    html body header {
+      width: 564px;
+      height: 200px;
+      margin: 0 auto; }
+      html body header div {
+        display: block;
+        width: 400px;
+        padding: 20px;
+        margin: 0 auto; }
+        html body header div img {
+          float: left;
+          margin-top: 10px; }
+        html body header div h1 {
+          float: left;
+          display: inline-block;
+          width: 300px;
+          margin-right: 0;
+          margin-top: 25px;
+          margin-bottom: 10px;
+          padding: 0;
+          font-family: "Patua One";
+          font-size: 45px;
+          text-align: center;
+          color: #2b2828; }
+        html body header div h1:hover {
+          opacity: 0.5; }
+        html body header div h4 {
+          font-family: Georgia;
+          font-size: 12px;
+          font-style: italic;
+          margin: 0 auto;
+          font-weight: normal;
+          padding: 0;
+          padding-left: 100px; }
+    html body nav {
+      border-bottom: 1px dashed #808080;
+      border-top: 1px dashed #800080;
+      font-family: Arial;
+      font-style: 15px;
+      font-weight: 15px;
+      height: 30px; }
+      html body nav ul {
+        list-style-type: none;
+        margin: 0 auto;
+        margin-left: 80px; }
+        html body nav ul li {
+          display: inline-block;
+          padding: 5px; }
+        html body nav ul li:first-child {
+          background-color: #e6e6e8; }
+        html body nav ul li:hover {
+          border-radius: 5px;
+          font-weight: bold; }
+        html body nav ul a {
+          text-decoration: none;
+          color: #aeacac; }
+    html body section {
+      width: 940px;
+      margin: 0 auto;
+      font-family: Georgia; }
+      html body section article {
+        margin-left: 10px; }
+        html body section article hr {
+          border: 0;
+          border: 1px dashed;
+          color: #808080; }
+      html body section article:last-child {
+        margin-bottom: 50px;
+        margin-left: 0;
+        padding-left: 0;
+        width: 70%; }
+      html body section aside {
+        margin-top: 10px;
+        float: right; }
+        html body section aside div {
+          margin-bottom: 15px;
+          width: 88%;
+          padding: 15px;
+          background-color: #f9f9f9;
+          border: 1px dashed #808080; }
+          html body section aside div a {
+            display: block;
+            text-decoration: none;
+            color: #0000ff; }
+          html body section aside div a:hover {
+            color: #ff0000;
+            text-decoration: underline; }
+    html body footer {
+      width: 100%;
+      background-color: #eeeeee; }
+      html body footer p {
+        display: inline-block;
+        margin: 20px;
+        width: 100%;
+        text-align: center; }
+
+.first-article {
+  font-size: 10px;
+  text-align: center;
+  display: inline-block;
+  width: 65%;
+  padding: 15px; }
+  .first-article h3 {
+    margin-bottom: 5px; }
+  .first-article P {
+    display: inline-block;
+    width: 70%; }
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0; }

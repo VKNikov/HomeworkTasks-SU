@@ -1,0 +1,146 @@
+html {
+  height: 100%;
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    background-color: #f7f7f7;
+
+    #container {
+      width: 650px;
+    }
+
+    header {
+      color: #2a2329;
+      font-size: 12px;
+    }
+
+    section {
+
+      position: relative;
+
+      hr {
+        border: 0;
+        border: 1px dotted darkgray;
+        width: 400px;
+        margin-left: 0;
+      }
+
+      aside {
+        display: inline-block;
+        width: 220px;
+        position: absolute;
+        right: 0;
+        top: 15px;
+        background-color: #ffffff;
+        border: 1px solid darkgray;
+        padding: 10px;
+
+
+      }
+
+      form {
+        width: 400px;
+
+        fieldset {
+
+          border: 1px dotted darkgrey;
+
+          legend {
+            height: 30px;
+            line-height: 1.7;
+            padding-left: 5px;
+            padding-right: 5px;
+            background-color: #5f5f5f;
+            color: #ffffff;
+          }
+
+          div {
+            margin-top: 5px;
+
+            label {
+              background-color: #cccccc;
+              padding: 5px;
+              display: inline-block;
+              width: 80px;
+              height: 20px;
+            }
+
+            div {
+              margin-left: 7px;
+              display: inline-block;
+              width: 260px;
+              background-color: #cccccc;
+
+              input {
+                height: 20px;
+                width: 200px;
+              }
+            }
+          }
+
+          #username {
+            background: url("../images/username-icon.png") no-repeat, rgb(255, 255, 255);
+            padding-left: 20px;
+          }
+
+          #username:focus, #password:focus, #name:focus, #address:focus, #city:focus, #country:focus {
+            background-color: #f7f5d2;
+          }
+
+          #username:hover, #password:hover, #name:hover, #address:hover, #city:hover, #country:hover {
+            background-color: #f7f5d2;
+          }
+
+          #password {
+            background: url("../images/password-icon.png") no-repeat, rgb(255, 255, 255);
+            padding-left: 20px;
+          }
+
+
+          #name, #address, #city, #country {
+            background: url("../images/field-icon.png") no-repeat, rgb(255, 255, 255);
+            padding-left: 20px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.button {
+
+  display: inline-block;
+  float: right;
+  width: 260px;
+  margin-right: 5px;
+  height: 35px;
+  background-color: #ffffff;
+  border: 1px solid darkgray;
+  text-align: right;
+
+  button {
+    width: 60px;
+    height: 25px;
+    outline: none;
+    border: none;
+    margin-top: 5px;
+    margin-right: 35px;
+    background-color: #e3e3db;
+    text-align: center;
+  }
+
+  button:hover {
+    background-color: #cccccc;
+    font-weight: bold;
+  }
+}
