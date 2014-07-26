@@ -1,0 +1,54 @@
+html {
+  width: 100%; }
+  html body {
+    width: 100%;
+    font-size: 62.5%;
+    font-family: Tahoma;
+    background-color: #EEEEEE; }
+    html body div {
+      width: 90%;
+      margin: 0 auto; }
+      html body div h2 {
+        color: #284a64; }
+      html body div section {
+        display: inline-block;
+        width: 100%;
+        margin: 0 auto; }
+        html body div section header {
+          width: 100%;
+          margin: 20px 24px; }
+        html body div section h1 {
+          color: #284a64;
+          margin: 0 auto;
+          text-transform: uppercase; }
+        html body div section div {
+          margin: 0 auto; }
+          html body div section div div {
+            padding: 20px;
+            float: left;
+            display: inline-block;
+            height: 300px;
+            width: 260px;
+            margin-left: 25px;
+            background-color: #ffffff; }
+            html body div section div div p {
+              font-size: 0.7rem;
+              color: #5a5a5a; }
+              html body div section div div p strong {
+                color: #000000; }
+            html body div section div div span {
+              font-size: 0.9rem;
+              text-align: right;
+              display: block;
+              color: #000000; }
+            html body div section div div hr {
+              width: 98%;
+              color: #f9f9f9; }
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0; }

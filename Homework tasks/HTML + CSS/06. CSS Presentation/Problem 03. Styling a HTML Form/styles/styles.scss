@@ -1,0 +1,111 @@
+form {
+  height: 850px;
+  width: 590px;
+  background: url(../images/formBackground.jpg);
+  font-family: Tahoma;
+
+  fieldset {
+    margin-left: 20px;
+    border: none;
+    color: #fff;
+    position: relative;
+
+    legend {
+      margin-bottom: 5px;
+    }
+
+    #first {
+      padding-top: 15px;
+    }
+
+    label {
+      display: inline-block;
+      width: 95%;
+      height: 40px;
+      margin: 2px auto;
+      padding-left: 10px;
+      line-height: 2;
+      background: rgba(255, 255, 255, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      border-radius: 5px;
+      color: black;
+
+      input {
+        display: inline-block;
+        float: right;
+        margin-right: 50px;
+        width: 60%;
+        height: 25px;
+        margin-top: 6px;
+        padding-left: 5px;
+        border-radius: 2px;
+        border: none;
+      }
+
+      textarea {
+        display: inline-block;
+        float: right;
+        margin-right: 50px;
+      }
+    }
+
+    div {
+      display: inline-block;
+      width: 97%;
+      margin: 2px auto;
+      background: rgba(255, 255, 255, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      border-radius: 5px;
+
+      .card-name {
+        display: block;
+        color: black;
+        margin-top: 7px;
+        margin-bottom: 7px;
+      }
+
+      img {
+        float: left;
+        max-width: 40%;
+        padding-left: 0;
+      }
+
+      span {
+        display: inline-block;
+        padding-left: 5px;
+        width: 15%;
+      }
+
+      label {
+        display: inline-block;
+        background: none;
+        width: 15%;
+        margin: 0;
+        margin-top: 7px;
+        margin-bottom: 7px;
+        border: none;
+      }
+
+      input {
+        margin-left: 7px;
+      }
+    }
+  }
+
+  button {
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    background: #04152f;
+    color: #fff;
+    width: 135px;
+    height: 33px;
+    margin: 0 auto;
+    border-radius: 13%/50%;
+    border: none;
+  }
+}
+
+.address-field {
+  height: 120px;
+}

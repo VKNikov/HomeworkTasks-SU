@@ -1,0 +1,54 @@
+main {
+    width: 510px;
+    height: 330px;
+    background-color: #ffc0cb;
+}
+
+h1 {
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.span-numbers {
+    font-style: italic;
+    margin-right: 13px;
+    float: left;
+    width: 60px;
+}
+
+span {
+    font-style: italic;
+    margin-bottom: 0
+}
+
+input[type=date] {width: 200px;}
+
+label {
+    font-style: italic;
+}
+
+fieldset {border: 0;}
+
+button {margin-top: 5px;}
+
+.time {width: 100px;}
+
+.numbers {
+    width: 65px;
+}
+
+.select-box {
+    width: 210px;
+    height: 25px;
+}
+
+#checkbox {clear: both;}
+
+#departure-form, #arriving-form {
+    width: 225px;
+    float: left;
+}
+
+

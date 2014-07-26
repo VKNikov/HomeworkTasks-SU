@@ -1,0 +1,272 @@
+$color-grey: #777b7e;
+$color-purple: #3a0c3a;
+$color-blue: #1010b4;
+$color-green: #0b3a0b;
+$color-yellow: #f5f509;
+$color-orange: #ec980d;
+$color-red: #d21717;
+
+@mixin vertical($color) {
+  border-radius: 15px;
+  background-color: $color;
+  background-image: linear-gradient(to bottom, $color, white 100%) ;
+}
+
+@mixin horizontal ($color) {
+  display: inline-block;
+  border-radius: 15px;
+  background-color: $color;
+  background-image: linear-gradient(to right, $color, white 100%) ;
+}
+
+@mixin diagonal ($color) {
+  border-radius: 15px;
+  background-color: $color;
+  background-image: linear-gradient(to bottom right, $color, white 100%) ;
+}
+
+@mixin radial ($color) {
+  border-radius: 15px;
+  background-color: $color;
+  background-image: radial-gradient(circle, $color, white 100%);
+}
+
+@mixin div-box {
+  display: inline-block;
+  border: 1px;
+  width: 115px;
+  height: 115px;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin a-formatting {
+  text-decoration: none;
+  color: $color-grey;
+}
+
+html {
+  height: 100%;
+  font-family: Tahoma;
+
+  body {
+    height: 100%;
+    @include vertical($color-grey);
+    color: $color-grey;
+
+    div {
+      background-color: white;
+      margin: 0 auto;
+      border: 2px solid $color-grey;
+      width: 90%;
+
+      header{
+        text-align: center;
+        width: 97%;
+        border: 2px solid $color-grey;
+        margin: 20px auto;
+
+       nav {
+         ul {
+           padding: 0;
+
+           li {
+             display: inline-block;
+             border: 1px solid $color-grey;
+             padding: 5px 15px;
+             margin-left: 20px;
+
+             &:hover {
+               background-color: $color-grey;
+               background-image: linear-gradient(to bottom, $color-grey, white 100%);
+             }
+             a {
+               @include a-formatting;
+
+               &:hover {
+                 color: white;
+
+               }
+             }
+           }
+         }
+       }
+      }
+
+      section {
+
+        #linear, #radial {
+          h1 {
+            text-decoration: underline;
+          }
+        }
+
+        #vertical, #horizontal, #diagonal {
+          font-size: 12px;
+        }
+
+        header {
+          border: none;
+        }
+
+        article {
+          margin: 15px auto;
+          border: 1px solid $color-grey;
+          padding: 15px;
+          width: 95%;
+          height: 180px;
+
+          div {
+            @include div-box;
+          }
+        }
+      }
+
+      footer {
+        border: 2px solid $color-grey;
+        margin: 20px;
+        text-align: center;
+        h3 {
+          text-decoration: underline;
+          font-weight: normal;
+        }
+
+        ul {
+          list-style-type: none;
+          padding: 0;
+
+          li {
+            a {
+              @include a-formatting;
+            }
+          }
+        }
+      }
+    }
+
+  }
+
+}
+
+.vertical {
+  .purple {
+    @include vertical($color-purple)
+  }
+
+  .blue {
+    @include vertical($color-blue)
+  }
+
+  .green {
+    @include vertical($color-green)
+  }
+
+  .yellow {
+    @include vertical($color-yellow)
+  }
+
+  .orange {
+    @include vertical($color-orange)
+  }
+
+  .red {
+    @include vertical($color-red)
+  }
+}
+
+.horizontal {
+  .purple {
+    @include horizontal($color-purple)
+  }
+
+  .blue {
+    @include horizontal($color-blue)
+  }
+
+  .green {
+    @include horizontal($color-green)
+  }
+
+  .yellow {
+    @include horizontal($color-yellow)
+  }
+
+  .orange {
+    @include horizontal($color-orange)
+  }
+
+  .red {
+    @include horizontal($color-red)
+  }
+}
+
+.diagonal {
+  .purple {
+    @include diagonal($color-purple)
+  }
+
+  .blue {
+    @include diagonal($color-blue)
+  }
+
+  .green {
+    @include diagonal($color-green)
+  }
+
+  .yellow {
+    @include diagonal($color-yellow)
+  }
+
+  .orange {
+    @include diagonal($color-orange)
+  }
+
+  .red {
+    @include diagonal($color-red)
+  }
+}
+
+.radial {
+  .purple {
+    @include radial($color-purple)
+  }
+
+  .blue {
+    @include radial($color-blue)
+  }
+
+  .green {
+    @include radial($color-green)
+  }
+
+  .yellow {
+    @include radial($color-yellow)
+  }
+
+  .orange {
+    @include radial($color-orange)
+  }
+
+  .red {
+    @include radial($color-red)
+  }
+}
+
+
+
+.innerContainer {
+  display: block;
+  width: 715px;
+  margin: 0 auto;
+  padding: 0;
+  padding-bottom: 10px;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}

@@ -1,3 +1,19 @@
+main, header {font-family: Verdana;}
+
+input {
+    padding-left: 5px;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 97%;
+}
+
+span, h1 {color: #234465}
+
+fieldset {
+    border: 0;
+    height: 290px;
+}
+
 #register {
     font-size: 18px;
     float: right;
@@ -9,27 +25,17 @@
     font-weight: bold;
 }
 
-input {
-    padding-left: 5px;
-    margin-bottom: 10px;
-    height: 35px;
-    width: 97%;
-}
-
-fieldset {border: 0; height: 280px;}
-
 #new-user {
     width: 350px;
     border: none;
-    display: inline-block;
-
+    float: left;
 }
 
 #old-user {
     background-color: #234465;
     width: 350px;
     border: none;
-    display: inline-block;
+    float: left;
 }
 
 #remember {
@@ -41,6 +47,8 @@ label {
     vertical-align: top;
     color: #ffffff;
 }
+
+#login-headline {color: #ffffff}
 
 #login {
     font-size: 18px;
@@ -59,9 +67,3 @@ a {
     padding-right: 15px;
     clear: both;
 }
-
-#login-headline {color: #ffffff}
-
-span, h1 {color: #234465}
-
-main, header {font-family: Verdana;}

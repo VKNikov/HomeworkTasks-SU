@@ -1,0 +1,180 @@
+html, body {
+  font-family: Tahoma;
+  height: 100%; }
+
+header {
+  height: 105px;
+  background-color: #234465; }
+  header div nav {
+    display: block;
+    padding-left: 15px; }
+  header div #notifications {
+    margin-top: 14px;
+    color: #ffffff;
+    float: right;
+    width: 37px;
+    height: 22px;
+    display: inline-block;
+    background: url("../images/notificationsIcon.png") no-repeat center; }
+  header div #user {
+    color: #ffffff;
+    display: inline-block;
+    float: right;
+    margin-left: 10px; }
+    header div #user a {
+      color: #ffffff;
+      text-decoration: none; }
+    header div #user ul {
+      list-style-type: none;
+      display: inline-block;
+      padding-left: 0; }
+      header div #user ul li {
+        position: relative;
+        padding: 0; }
+      header div #user ul li:hover {
+        background-color: #4CA0DB;
+        border-radius: 2px;
+        color: #FF9C00; }
+      header div #user ul li ul {
+        padding-top: 5px;
+        position: absolute;
+        display: none;
+        z-index: 999; }
+        header div #user ul li ul li {
+          padding-left: 7px;
+          padding-top: 7px;
+          padding-bottom: 7px;
+          border-bottom: 1px solid #44607C; }
+        header div #user ul li ul li:last-child {
+          border-bottom-left-radius: 5px;
+          border-bottom-right-radius: 5px; }
+      header div #user ul li ul:last-child {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px; }
+  header div div form {
+    float: right;
+    margin-top: 10px;
+    margin-right: 3%;
+    margin-left: 15px;
+    display: inline-block;
+    width: 200px;
+    border-radius: 5px;
+    background-color: white; }
+    header div div form input {
+      box-sizing: border-box;
+      height: 100%;
+      width: 100%;
+      outline: none;
+      background: white;
+      width: 168px;
+      border: none;
+      border-top-left-radius: 5px;
+      padding-left: 5px;
+      padding-top: 5px; }
+    header div div form button {
+      outline: none;
+      border: none;
+      border-left: 1px solid #D7D7D7;
+      float: right;
+      background: url("../images/magn-glass-icon17.png") no-repeat center;
+      height: 26px;
+      width: 27px;
+      vertical-align: middle; }
+  header div nav ul {
+    list-style-type: none;
+    color: white; }
+    header div nav ul li {
+      display: inline-block;
+      position: relative;
+      text-align: center;
+      padding: 7px;
+      padding-left: 15px;
+      line-height: 2.2; }
+      header div nav ul li a {
+        text-decoration: none;
+        color: white; }
+      header div nav ul li ul {
+        display: none;
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        margin-left: -14px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border: 1px solid #1E3A56;
+        border-top: none; }
+        header div nav ul li ul li {
+          display: block;
+          text-align: left;
+          padding-right: 10px;
+          padding-bottom: 5px;
+          border-bottom: 1px solid #44607C; }
+    header div nav ul li:hover {
+      border-radius: 7px;
+      background-color: #4CA0DB;
+      color: #FF9C00; }
+
+.left {
+  float: left;
+  margin: 0;
+  display: inline-block;
+  height: 100%;
+  width: 30%; }
+
+.right {
+  float: left;
+  margin: 0;
+  display: inline-block;
+  height: 100%;
+  width: 69%; }
+
+.upper-row {
+  height: 35px;
+  width: 100%; }
+
+.logo {
+  display: inline-block;
+  width: 300px;
+  height: 100%;
+  background: url("../images/logo.png") no-repeat;
+  background-size: contain;
+  float: right;
+  position: relative;
+  transition: opacity 1.5s; }
+  .logo span {
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    right: 5px;
+    color: white; }
+
+.logo:hover {
+  opacity: 0.5; }
+
+.arrow-down {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #ffffff; }
+
+#user ul li:hover ul {
+  display: block;
+  width: 150px;
+  background-color: #234465; }
+
+nav ul li:hover ul {
+  display: block;
+  width: 100%;
+  background-color: #234465; }
+
+nav ul li:hover, #user ul:hover {
+  cursor: pointer; }
+
+a:hover {
+  color: #FF9C00; }
+
+@media screen and (min-width: 1370px) {
+  header div nav {
+    padding-left: 300px; } }

@@ -1,0 +1,52 @@
+table th, table td{
+	border: 1px solid;
+}
+		
+button {
+	height: 125px;
+	color: #0000ee;
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+button:hover {
+	background-color: ##3C7FB1;
+	opacity: 0.5;
+	cursor: pointer;
+}	
+#main-table {
+	text-align: center;
+	width: 570px;
+	height: 705px;
+	border: 1px solid;
+}
+		
+#second-table {
+	width: 100%;
+}
+		
+#SoftUni button {
+	width: 540px;
+	font-weight: bold;
+}
+
+#SocialLife button, #Sleep button {
+	width: 120px;
+	height: 57px;
+	font-family: Verdana;
+	font-size: 14px;
+}
+		
+#Beer button {
+	width: 400px;
+	text-align: right;
+}
+#Google button, #GitHub button, #Game button {
+	width: 255px;
+		
+}
+
+.square {
+	width: 120px;
+}
+		

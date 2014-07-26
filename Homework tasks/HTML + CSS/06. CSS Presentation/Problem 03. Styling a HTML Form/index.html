@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/styles.css"/>
+    <link rel="shortcut icon" href="favicon3.png"/>
+    <title>Problem 03</title>
+</head>
+<body>
+    <form action="" method="get">
+        <fieldset>
+            <legend id="first">
+                Step 1: Your details
+            </legend>
+            <label for="name">
+                Name <input id="name" type="text" placeholder="First and last name" autofocus="autofocus"/>
+            </label>
+            <label for="email">
+                Email <input id="email" type="email" placeholder="example@domain.com"/>
+            </label>
+            <label for="phone">
+               Phone <input id="phone" type="tel" placeholder="e.g. +447500000000"/>
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>
+                Step 1: Delivery Address
+            </legend>
+            <label for="address" class="address-field">
+                <span>Address</span>
+                    <textarea name="address" id="address" cols="36" rows="6"></textarea>
+            </label>
+            <label for="post-code">
+                Post code <input id="post-code" type="text"/>
+            </label>
+            <label for="country">
+                Country <input id="country" type="text"/>
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>
+                Step 1: Card Details
+            </legend>
+
+            <div>
+                <span class="card-name">Card type</span>
+                <input id="visa" type="radio" name="card" value="1"/>
+                <label for="visa"><img src="images/visa.png" alt="Visa"/><span>VISA</span></label>
+                <input id="amex" type="radio" name="card" value="1"/>
+                <label  for="amex"><img src="images/amex.png" alt="AmEx"/><span>AmEx</span></label>
+                <input id="mastercard" type="radio" name="card" value="1"/>
+                <label for="mastercard"><img src="images/mastercard.png" alt="Mastercard"/><span>Mastercard</span></label>
+            </div>
+
+            <label for="card-number">
+                Card number <input id="card-number" type="text"/>
+            </label>
+            <label for="security-code">
+                Security code<input id="security-code" type="text"/>
+            </label>
+            <label for="card-name">
+               Name on card <input id="card-name" type="text" placeholder="exact name as on the card"/></label>
+        </fieldset>
+        <button>BUY IT!</button>
+    </form>
+</body>
+</html>

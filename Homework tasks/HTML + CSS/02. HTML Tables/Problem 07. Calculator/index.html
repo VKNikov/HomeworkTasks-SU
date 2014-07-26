@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="favicon7.png">
+	<link rel="stylesheet" href="styles/styles.css">
+	<title>Problem 07</title>
+</head>
+<body>
+	<form name="calculator" action="">
+		<table>
+			<tbody>
+				<tr>
+					<td colspan= 4>
+						<input type="text" name="screen" placeholder="Enter an expression">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='1'">1</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='2'">2</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='3'">3</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='+'">+</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='4'">4</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='5'">5</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='6'">6</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='-'">-</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='7'">7</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='8'">8</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='9'">9</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='*'">*</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button type="reset">C</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='0'">0</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value=eval(calculator.screen.value)">=</button>
+					</td>
+					<td>
+						<button type="button" onclick="calculator.screen.value+='/'">/</button>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+	
+</body>
+</html>

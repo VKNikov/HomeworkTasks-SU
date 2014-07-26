@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon2.png"/>
+    <link rel="stylesheet" href="styles/styles.css"/>
+    <title>Problem 02</title>
+</head>
+<body>
+    <main>
+            <h1>FLIGHT ORDER</h1>
+            <form action="">
+                <fieldset id="departure-form">
+                        <span>From</span>
+                    <br/>
+                    <select name="city-from" value="enter a city" class="select-box">
+                        <option value="">enter a city</option>
+                        <option value="1">Sofia</option>
+                        <option value="2">Plovdiv</option>
+                        <option value="3">Varna</option>
+                        <option value="4">Burgas</option>
+                    </select>
+                    <br/>
+                    <br/>
+                    <span>Departure Date</span>
+                    <input type="date"/>
+                    <span>Return Date</span>
+                    <input type="date"/>
+                    <br/>
+                    <span class="span-numbers">12+</span><span class="span-numbers">2-12</span><span class="span-numbers">0-2</span>
+                    <input type="number" value="0" min="12" id="12+" class="numbers"/>
+                    <input type="number" value="0" id="2-12" class="numbers"/>
+                    <input type="number" value="0" id="0-2" class="numbers"/>
+                </fieldset>
+                <fieldset id="arriving-form">
+                        <span>To</span>
+                    <br/>
+                    <select name="city-to" class="select-box">
+                        <option value="">enter a city</option>
+                        <option value="1">Sofia</option>
+                        <option value="2">Plovdiv</option>
+                        <option value="3">Varna</option>
+                        <option value="4">Burgas</option>
+                    </select>
+                    <input type="checkbox" id="checkbox"/>
+                    <label for="checkbox">Prefer directs</label>
+                    <br/>
+                    <span>Time interval</span>
+                    <br/>
+                    <input type="time" value="00:20" class="time"/>
+                    <input type="time" value="05:20" class="time" />
+                    <span>Time interval</span>
+                    <br/>
+                    <input type="time" value="16:00" class="time"/>
+                    <input type="time" value="22:00" class="time"/>
+                    <span>Choose class</span>
+                    <select name="class" class="select-box">
+                        <option value="1">Economy</option>
+                        <option value="2">Business</option>
+                    </select>
+                    <button type="button" class="select-box">Search</button>
+                </fieldset>
+            </form>
+    </main>
+</body>
+</html>

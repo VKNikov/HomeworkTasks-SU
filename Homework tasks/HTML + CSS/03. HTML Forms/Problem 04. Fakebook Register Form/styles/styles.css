@@ -1,0 +1,103 @@
+header {
+    width: 910px;
+    text-align: center;
+    background-color: #3b5997;
+    color: #ffffff;
+    border: solid #3b5997;
+    font-family: Verdana;
+}
+
+h1 {
+    display: inline-block;
+}
+
+thead {vertical-align: bottom;}
+
+#name {
+    font-size: 120px;
+}
+
+main {
+    font-family: Verdana;
+    width: 910px;
+    border: solid #3b5997;
+    background-color: #3b5997;
+    color: #ffffff;
+}
+form {
+    width:910px;
+}
+
+fieldset {
+    display: inline-block;
+    height: 270px;
+    vertical-align: top;
+}
+
+#non-important {
+    margin-left: 5px;
+    width: 325px;
+}
+
+#important {
+    margin-left: 10px;
+    width: 495px;
+}
+
+.options {
+    border-radius: 3px;
+    border: 0;
+    margin: 5px;
+    height: 30px;
+}
+
+input[type=color] {
+    vertical-align: bottom;
+    width: 150px;
+}
+
+input[type=reset] {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    width: 39%;
+    height: 55px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #236cad;
+}
+
+input[type=submit] {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 12px;
+    width: 57%;
+    height: 55px;
+    border-radius: 5px;
+    color: #236cad;
+    font-size: 18px;
+}
+
+label {
+    font-size: 12px;
+}
+
+textarea{
+    border-radius: 3px;
+    border: 0;
+}
+
+.essential {
+    width: 70px;
+}
+
+span, #date, #time {
+    margin-left: 5px;
+    float: left;
+}
+
+#country, #panties {
+    vertical-align: middle;
+    width: 150px;
+    height: 32px;
+}

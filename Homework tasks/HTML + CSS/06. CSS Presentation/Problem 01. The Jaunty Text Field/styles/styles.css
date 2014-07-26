@@ -1,0 +1,118 @@
+html, body {
+  font-family: Verdana;
+  font-size: 62.5%; }
+  html div, body div {
+    position: relative;
+    margin: 20px;
+    width: 780px;
+    height: 330px;
+    border-left: 8px dashed #ff0000;
+    border-top: 8px dotted #ffff00;
+    border-right: 12px solid #008000;
+    border-bottom: 11px double #0000ff; }
+    html div h1, body div h1 {
+      line-height: 0.8;
+      font-weight: lighter;
+      text-shadow: 12px 12px 13px;
+      font-size: 5rem;
+      text-align: center;
+      margin-bottom: 70px; }
+    html div div, body div div {
+      margin: 0 auto;
+      width: 710px;
+      height: 140px;
+      border: 2px solid #0000ff;
+      border-radius: 10%/50%; }
+      html div div div, body div div div {
+        border: 2px solid #008000;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        width: 100%;
+        height: 100%;
+        border-radius: 10%/50%; }
+        html div div div div, body div div div div {
+          border: 2px solid #ffff00;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          width: 100%;
+          height: 100%;
+          border-radius: 10%/50%; }
+          html div div div div div, body div div div div div {
+            border: 2px solid #ff0000;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            width: 100%;
+            height: 100%;
+            border-radius: 10%/50%; }
+            html div div div div div p, body div div div div div p {
+              text-align: center;
+              font-size: 2.2rem;
+              text-shadow: 5px 10px 20px; }
+            html div div div div div div, body div div div div div div {
+              border: none;
+              text-align: center; }
+              html div div div div div div span, body div div div div div div span {
+                display: inline-block;
+                background-color: #d8921a;
+                border: 5px outset #d8921a;
+                text-align: center;
+                font-size: 1.8rem;
+                height: 32px;
+                line-height: 1.7;
+                padding: 0 25px; }
+
+#second {
+  margin-left: 5px; }
+
+.floating-divs {
+  position: absolute;
+  background-color: rgba(80, 80, 80, 0.5); }
+
+.first {
+  border: 5px;
+  top: -30px;
+  right: 90px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%; }
+  .first div {
+    top: 5px;
+    border-radius: 50%;
+    width: 75%;
+    height: 75%;
+    border: 4px dashed white; }
+
+.second {
+  width: 55px;
+  height: 55px;
+  top: -85px;
+  right: 20px;
+  border-radius: 50%; }
+  .second div {
+    top: 5px;
+    border-radius: 50%;
+    width: 75%;
+    height: 75%;
+    border: 4px dashed white; }
+
+.third {
+  right: -155px;
+  top: -180px;
+  height: 105px;
+  width: 175px;
+  border-radius: 30%/50%; }
+  .third div {
+    top: 7px;
+    width: 87%;
+    height: 87%;
+    border-radius: 30%/50%;
+    border: 4px dashed white; }
+    .third div p {
+      color: #ffffff;
+      text-align: center;
+      font-weight: bold;
+      margin: 0;
+      margin-top: 10px; }

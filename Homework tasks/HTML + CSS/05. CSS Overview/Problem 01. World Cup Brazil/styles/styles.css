@@ -1,0 +1,170 @@
+html, body {
+    margin-top: 10px;
+    height: 100%;
+    font-family: Verdana;
+}
+
+div {
+    width: 1000px;
+    height: 360px;
+    margin: auto auto;
+    background-color: #00923e;
+}
+
+.table-div {
+    margin: 8px;
+    float: left;
+    overflow: hidden;
+    width: 98%;
+    height: 96%;
+    border: 1px solid;
+    border-radius: 15px;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+}
+
+table thead {
+    font-size: 20px;
+    background-color: #f8c711;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #c8c8c8;
+}
+
+th {
+    height: 50px;
+}
+
+tr, td, th {
+    border: 1px solid;
+}
+
+span {
+    display: block;
+}
+
+.left {
+    padding-left: 5px;
+    text-align: left;
+}
+
+.right {
+    padding-right: 5px;
+    text-align: right;
+}
+
+td {
+    text-align: center;
+}
+
+img {
+    float: right;
+}
+
+.img-left {
+    padding-right: 0;
+    float: left;
+}
+
+input {
+    padding-left: 4px;
+    height: 35px;
+    width: 35px;
+}
+
+button {
+    padding: 0;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    color: #fff;
+}
+
+.input-disabled {
+    color: #ff0503;
+}
+
+.button-disabled {
+    background-color: #ff0000;
+}
+
+.input-enabled {
+    color: #00760c;
+}
+
+.button-enabled {
+    background-color: #008000
+}
+
+.span-flag {
+    float: right;
+}
+
+.portugal-flag {
+    background: url("../images/Portugal.PNG");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.flags {
+    background: url("../images/flags-sprite.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 17px;
+    line-height: 17px;
+    margin: 0.2em 0;
+    padding-left: 1.1em;
+    text-align: left;
+}
+
+.flag-br {
+    background-position: 0 -144px;
+}
+
+.flag-mx {
+    background-position: 0 -544px
+}
+
+.flag-es {
+    background-position: 0 -96px;
+}
+
+.flag-nl {
+    background-position: 0 -160px;
+}
+
+.flag-it {
+    background-position: 0 -64px;
+}
+
+.flag-en {
+    background-position: 0 -32px
+}
+
+.flag-ar {
+    background-position: 0 -464px;
+}
+
+.flag-ba {
+    background-position: 0 -608px;
+}
+
+.flag-ge {
+    background-position: 0 -80px;
+}
+
+.flag-pr {
+    padding-top: 2px;
+    padding-right: 2px;
+    float: left;
+    width: 20px;
+    height: 14px;
+}

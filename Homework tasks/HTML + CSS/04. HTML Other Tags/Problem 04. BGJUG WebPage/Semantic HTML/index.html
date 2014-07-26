@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon4.png"/>
+    <link rel="stylesheet" href="styles/styles.css"/>
+    <title>Problem 04</title>
+</head>
+<body>
+<div id="container">
+        <header>
+            <h1>BGJUG – Bulgarian Java User Group </h1>
+            <nav>
+                <ul>
+                    <li class="nav-btns"><a class="header-links" href="#">ABOUT</a></li>
+                    <li class="nav-btns"><a class="header-links" href="#">EVENTS</a></li>
+                    <li class="nav-btns"><a class="header-links" href="#">CONTACTS</a></li>
+                </ul>
+                <form action="" method="get">
+                    <fieldset>
+                        <input class="search" type="search" placeholder="Search"/>
+                        <button class="search"><img src="images/search-btn.png" alt="Go"/></button>
+                    </fieldset>
+                </form>
+            </nav>
+            <hr/>
+        </header>
+        <aside>
+            <h4>RECENT POSTS</h4>
+            <hr/>
+            <ul class="list-aside">
+                <li><a class="aside-links"
+                       href="http://techblog.bozho.net/?p=1444&utm_source=rss&utm_medium=rss&utm_campaign=make-tests-fail">Make
+                    Tests Fail</a></li>
+                <li><a class="aside-links"
+                       href="http://techblog.bozho.net/?p=1438&utm_source=rss&utm_medium=rss&utm_campaign=an-architecture-for-e-voting">An
+                    Architecture for E-Voting</a></li>
+                <li><a class="aside-links"
+                       href="http://techblog.bozho.net/?p=1433&utm_source=rss&utm_medium=rss&utm_campaign=integration-tests-for-external-services">Integration
+                    Tests for External Services</a></li>
+                <li><a class="aside-links"
+                       href="http://techblog.bozho.net/?p=1428&utm_source=rss&utm_medium=rss&utm_campaign=algorithmic-music-influenced-by-tweets">Algorithmic
+                    Music Influenced by Tweets</a></li>
+                <li><a class="aside-links"
+                       href="http://techblog.bozho.net/?p=1423&utm_source=rss&utm_medium=rss&utm_campaign=the-astonishingly-low-quality-of-scientific-code">The
+                    Low Quality of Scientific Code</a></li>
+            </ul>
+        </aside>
+        <section>
+            <article>
+                <header>
+                    <h1>Make Tests Fail</h1>
+                    <span>by <a class="article-header" href="#">BOZHO</a> on June 12, 2014 · <a class="article-header" href="#">Leave a Comment</a></span>
+                </header>
+                <p>
+                    This is about a simple testing technique that is probably obvious, but I’ll share it anyway. In case you are not following TDD, when writing tests, make them fail, in order to be sure you are testing the right thing. You can make them fail either by changing some preconditions (the “given” or “when” parts, […]
+                </p>
+                <a class="article-end" href="#">Continue reading →</a>
+            </article>
+            <hr class="article-hr"/>
+            <article>
+                <header>
+                    <h1>An Architecture for E-Voting</h1>
+                    <span>by <a class="article-header" href="#">BOZHO</a> on May 27, 2014 · <a class="article-header" href="#">Leave a Comment</a></span>
+                </header>
+                <p>
+                    E-voting is a hot topic in my country, and has been discussed a lot everywhere. Since we are already using the internet and touch-screen technologies in our everyday lives, why not apply that to voting? And not for the sake of technology itself, but in order to prevent technical mistakes and election fraud, and make […]
+                </p>
+                <a class="article-end" href="#">Continue reading →</a>
+            </article>
+            <hr class="article-hr" />
+            <article>
+                <header>
+                    <h1>Integration Tests for External Services</h1>
+                    <span>by <a class="article-header" href="#">BOZHO</a> on May 22, 2014 · <a class="article-header" href="#">Leave a Comment</a></span>
+                </header>
+                <p>
+                    Our systems often depend on 3rd party services (They may even be services internal to the company that we have no control on). Such services include Social Networks exposing APIs, SaaS with APIs like Salesforce, Authentication providers, or any system that our system communicates with, but is outside our product lifecycle. In regular integration tests, […]
+                </p>
+                <a class="article-end" href="#">Continue reading →</a>
+            </article>
+            <hr class="article-hr"/>
+            <a class="article-end" href="#">← Previous entries</a>
+        </section>
+        <aside id="left">
+            <h3>
+                <span>Language</span>
+            </h3>
+            <form id="language-form" method="get">
+                <select name="language" id="language-select">
+                    <option value="1">Bulgarian</option>
+                    <option value="2">English</option>
+                </select>
+            </form>
+            <br/>
+            <h3>
+                <span>Blogroll</span>
+            </h3>
+        </aside>
+        <footer>
+            <div class="twitter">
+                <img src="http://java-bg.org/wp-content/themes/platform/images/twitter-balloon.png" alt="twitter"/>
+                <span>Set your Twitter account name in your settings to use the TwitterBar Section.</span>
+            </div>
+            <h3 id="footer-headline">BGJUG – Java Bulgarian User Group</h3>
+            <nav>
+                <div class="nav-footer">
+                    <h3 class="footer-nav-headlines">Pages</h3>
+                    <ul class="list-footer" >
+                        <li>
+                            <a class="footer-links" href="#">About BGJUG</a>
+                        </li>
+                        <li>
+                            <a class="footer-links" href="#">Events</a>
+                        </li>
+                        <li>
+                            <a class="footer-links" href="#">Contacts</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="nav-footer">
+                    <h3 id="second-footer-headline" class="footer-nav-headlines">The Latest</h3>
+                    <ul class="list-footer second-nav-footer">
+                        <li>
+                            <a class="footer-links second-nav-footer" href="#">How to Handle Incompetence?</a>
+                        </li>
+                        <li>
+                            <p class="second-nav-footer">We’ve all had incompetent colleagues. People that tend to write bad code, […]</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="nav-footer">
+                    <h3 id="last-footer-headline">MORE</h3>
+                    <p id="fixing-last-nav">Thanks for dropping by! Feel free to join the discussion by leaving comments, and stay updated by subscribing to the
+                        <a href="#">RSS feed.</a></p>
+                </div>
+                <div>
+                    <br/>
+                    <p>© 2011 BGJUG - Java Bulgarian User Group </p>
+                </div>
+            </nav>
+        </footer>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon4.png"/>
+    <link rel="stylesheet" href="styles/styles.css"/>
+</head>
+<body>
+<header>
+    <h1>
+        <table>
+            <thead>
+            <tr>
+                <th id="name">fakebook</th>
+                <th id="trade-mark">&reg;</th>
+            </tr>
+            </thead>
+        </table>
+    </h1>
+    <h2>Registration</h2>
+
+    <h3>It is save and it will always be!</h3>
+</header>
+<main>
+    <form method="post">
+        <fieldset id="non-important">
+            <legend>Non-important Information</legend>
+            <input type="text" class="options" name="first-name" placeholder="First Name"/>
+            <input type="text" class="options" name="last-name" placeholder="Last Name"/>
+            <br/>
+            <input type="email" class="options" name="email" placeholder="Your Email"/>
+            <input type="tel" class="options" name="phone" placeholder="Phone Number"/>
+            <br/>
+            <input type="password" class="options" name="pswd" placeholder="Your Password"/>
+            <input type="url" class="options" name="url" placeholder="Website"/>
+            <br/>
+            <span>Birthday</span>
+            <br/>
+            <input type="datetime-local" class="options" name="date" id="date"/>
+            <br/>
+            <br/>
+            <br/>
+            <input type="radio" class="options" value="1" id="female" name="sex"/><label for="female">Female</label>
+            <input type="radio" class="options" value="2" id="male" name="sex"/><label for="male">Male</label>
+            <input type="radio" class="options" value="3" id="other" name="sex"/><label for="other">Other</label>
+        </fieldset>
+        <fieldset id="important">
+            <legend>Important information *required</legend>
+            <select name="country" class="options" id="country">
+                <option disabled selected value="">Country</option>
+                <option value="1">Bulgaria</option>
+                <option value="2">Germany</option>
+                <option value="3">France</option>
+                <option value="4">Spain</option>
+                <option value="5">Netherlands</option>
+                <option value="6">Italy</option>
+                <option value="7">England</option>
+                <option value="8">Greece</option>
+                <option value="9">Romania</option>
+                <option value="10">Portugal</option>
+            </select>
+            <input type="text" class="options" name="village" placeholder="Village" required="required"/>
+            <input type="text" class="options" name="district" placeholder="District" required="required"/>
+            <br/>
+            <input type="text" class="options" name="address" placeholder="Street" required="required"/>
+            <input type="text" class="essential options" name="address" placeholder="Nr" required="required"/>
+            <input type="text" class="essential options" name="address" placeholder="Floor" required="required"/>
+            <input type="text" class="essential options" name="address" placeholder="Ap Nr" required="required"/>
+            <br/>
+            <span>Door Color</span>
+            <br/>
+            <input type="color" class="options" name="color" value="#ff80c0"/>
+            <input type="text" class="options" name="meter" placeholder="Water Meter Nr" required="required"/>
+            <select name="panties-size" class="options" id="panties">
+                <option disabled selected value="">Aunt Panties'Size</option>
+                <option>S</option>
+                <option>M</option>
+                <option>L</option>
+                <option>XL</option>
+                <option>XXL</option>
+            </select>
+            <br/>
+            <span>More personal Information</span>
+            <br/>
+            <textarea name="" id="information" cols="58" rows="5" placeholder="Give us more information!!!"></textarea>
+        </fieldset>
+        <input type="reset" value="Clear Form"/>
+        <input type="submit" value="Register"/>
+    </form>
+</main>
+</body>
+</html>

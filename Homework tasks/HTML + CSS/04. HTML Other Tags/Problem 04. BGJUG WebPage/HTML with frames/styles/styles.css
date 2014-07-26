@@ -1,0 +1,181 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+
+
+hr {
+    margin-top: 70px;
+    color: #ACACAC;
+}
+
+.article-hr {
+    margin-top: 40px;
+}
+
+.header-links {
+    text-decoration: none;
+    color: #ACACAC;
+}
+
+footer p {
+    margin-top: 0;
+    color: #ACACAC;
+}
+
+
+#left > hr {
+    margin: 0;
+    margin-top: 10px;
+}
+
+.aside-links {
+    text-decoration: none;
+    color: #0F457C;
+}
+
+.aside-links:hover {
+    text-decoration: underline;
+}
+
+h3 {
+    color: #ACACAC;
+    border-bottom: 2px solid #ACACAC;
+}
+
+h4 {
+    color: #ACACAC;
+}
+
+ul {
+    margin-bottom: 25px;
+    display: block;
+}
+
+.list-aside {
+    line-height: 1.5;
+    list-style: none;
+}
+
+.list-footer {
+    list-style: none;
+}
+
+.nav-btns {
+    float: left;
+    list-style: none;
+    display: block;
+    padding: 10px;
+}
+
+.nav-btns:hover {
+    background-color: #F1F1F1;
+}
+
+fieldset {
+    background-color: #F7F7F7;
+    padding: 0;
+    float: right;
+    border: 1px inset #e9e9e9 ;
+}
+
+#language-form {
+    float: left;
+}
+
+.search {
+    background-color: #F7F7F7;
+    height: 27px;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    color: #ACACAC;
+}
+
+section {
+    width: 80%;
+    font-size: 16px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.article-header {
+    color: #ACACAC;
+}
+
+.article-end {
+    text-decoration: none;
+}
+
+footer {
+    font-size: 14px;
+    height: 160px;
+    bottom: -15%;
+    width: 100%;
+    position: absolute;
+    background-color: #000;
+
+}
+
+#footer-headline {
+    margin-left: 30px;
+    float: left;
+    border: none;
+    color: #fff;
+    width: 150px;
+}
+
+#last-footer-headline {
+    color: #fff;
+    border: none;
+    margin: 0;
+    padding-top: 15px;
+}
+
+.footer-nav-headlines {
+    margin-bottom: -10px;
+    color: #fff;
+    border: none;
+}
+
+.footer-links {
+    margin-left: -30px;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-links:hover {
+    text-decoration: underline;
+}
+
+.second-nav-footer {
+    margin-left: -50px;
+}
+
+#second-footer-headline {
+    margin-left: -60px;
+}
+
+.nav-footer {
+    float: left;
+    display: block;
+    margin-left: 20px;
+    width: 20%;
+}
+
+.twitter {
+    padding-top: 7px;
+    padding-left: 50px;
+    font-style: italic;
+    background-color: #f7f7f7;
+    height: 32px;
+}
+
+#fixing-last-nav {
+    padding-top: 10px;
+}

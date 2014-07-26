@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon.png"/>
+    <link rel="stylesheet" href="styles/styles.css"/>
+    <title>Problem 01</title>
+</head>
+<body>
+<div>
+    <!--This second div is needed so that the table rounded corners can be made to work under FF.
+    Couldn't find any other way to do it.-->
+    <div class="table-div">
+        <table cellspacing="0">
+            <thead>
+            <tr>
+                <th>Country</th>
+                <th>Result</th>
+                <th>Country</th>
+                <th>Group</th>
+                <th colspan="4">Place A Bet</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td><span class="right">Brasil <span class="flag-br flags span-flag"></span></span></td>
+                <td>1 - 3</td>
+                <td><span class="left">Mexico<span class="flag-mx flags img-left"></span></span></td>
+                <td>A</td>
+                <td><span class="right">Brasil</span></td>
+                <td>
+                    <form action="#" method="get">
+                        <input class="input-disabled" type="number" value="0" min="0" max="10" disabled/> -
+                        <input class="input-disabled" type="number" value="0" min="0" max="10" disabled/>
+                    </form>
+                </td>
+                <td><span class="left">Mexico</span></td>
+                <td>
+                    <button class="button-disabled" disabled>BET</button>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="right">Spain <span class="flags flag-es span-flag"></span></span></td>
+                <td>1 - 5</td>
+                <td><span class="left">Netherlands <span class="flags flag-nl img-left"></span></span></td>
+                <td>B</td>
+                <td class="right">Spain</td>
+                <td>
+                    <form action="#" method="get">
+                        <input class="input-disabled" type="number" value="0" min="0" max="10" disabled/> -
+                        <input class="input-disabled" type="number" value="0" min="0" max="10" disabled/>
+                    </form>
+                </td>
+                <td><span class="left">Netherlands</span></td>
+                <td>
+                    <button class="button-disabled" disabled>BET</button>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="right">Italy <span class="flags flag-it span-flag"></span></span></td>
+                <td>2 - 1</td>
+                <td><span class="left">England<span class="flags flag-en img-left"></span></span></td>
+                <td>C</td>
+                <td><span class="right">Italy</span></td>
+                <td>
+                    <form action="#" method="get">
+                        <input class="input-disabled" type="number" value="0" min="0" max="10" disabled/> -
+                        <input class="input-disabled" type="number" value="0" min="0" max="10" disabled/>
+                    </form>
+                </td>
+                <td><span class="left">England</span></td>
+                <td>
+                    <button class="button-disabled" disabled>BET</button>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="right">Argentina<span class="flags flag-ar span-flag"></span></span></td>
+                <td>-</td>
+                <td><span class="left">Bosnia and Herz<span class="flags flag-ba img-left"></span></span></td>
+                <td>F</td>
+                <td><span class="right">Argentina</span></td>
+                <td>
+                    <input class="input-enabled" type="number" value="0" min="0" max="10"/> -
+                    <input class="input-enabled" type="number" value="0" min="0" max="10"/>
+                </td>
+                <td><span class="left">Bosnia and Herz</span></td>
+                <td>
+                    <button class="button-enabled">BET</button>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="right">Germany<span class="flags flag-ge span-flag"/></span></span>
+                </td>
+                <td>-</td>
+                <td><span class="left">Portugal<span class="flag-pr portugal-flag"></span></span>
+                </td>
+                <td>E</td>
+                <td><span class="right">Germany</span></td>
+                <td>
+                    <input class="input-enabled" type="number" value="0" min="0" max="10"/> -
+                    <input class="input-enabled" type="number" value="0" min="0" max="10"/>
+                </td>
+                <td><span class="left">Portugal</span></td>
+                <td>
+                    <button class="button-enabled">BET</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>
