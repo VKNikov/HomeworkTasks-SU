@@ -1,0 +1,28 @@
+@mixin colors {
+  background-color: #234465;
+  color: #ffab00;
+}
+
+html {
+  body {
+
+    div {
+
+      width: 300px;
+      border: 1px solid #ffab00;
+      background-color: darkgray;
+      padding: 15px;
+      text-align: center;
+
+      textarea {
+        @include colors;
+      }
+      p {
+        display: inline-block;
+        width: 265px;
+        height: 23px;
+        @include colors;
+      }
+    }
+  }
+}
