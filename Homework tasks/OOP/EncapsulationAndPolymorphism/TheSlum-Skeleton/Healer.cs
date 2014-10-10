@@ -16,7 +16,10 @@
 
         public override Character GetTarget(IEnumerable<Character> targetsList)
         {
-            return targetsList.OrderBy(character => character.HealthPoints).FirstOrDefault(character => !character.Equals(this) || !character.Team.Equals(this.Team));
+            return targetsList
+                .Where(character => character.IsAlive && character.Team == this.Team && character != this)
+                .OrderBy(character => character.HealthPoints)
+                .FirstOrDefault();
         }
 
         public override void AddToInventory(Item item)
